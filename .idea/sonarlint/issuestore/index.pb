@@ -1,0 +1,19 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+f
+6src/main/java/solver/perfectsum/ObjectWithInteger.java,3\a\3a0664be8551396be15b17b62a449ac399d6b343
+d
+4src/main/java/solver/perfectsum/SubsetSumSolver.java,2\9\291304e62c105ae1d9e658fe5f1ae97821cdff66
+P
+ src/main/java/solver/Solver.java,b\f\bfc6c84a9fd7ebaaf955685729e5ac3df78360c5
+a
+1src/main/java/pluszle/pojo/CoordinateInteger.java,1\f\1f393eb0e9b0afbba87c0ebeaa180471ff9e6d1d
+_
+/src/main/java/pluszle/pojo/PuzzleContainer.java,4\b\4b90f8af39ac7732198108631e5443bcd7e7a7f6
+Z
+*src/main/java/pluszle/pojo/Coordinate.java,3\2\323ac91221b549d4f1dcf41b36808df101308639
+U
+%src/main/java/pluszle/pojo/Board.java,7\f\7fa55a59055c1e505a42dccf9369a7440ab6cdce
+G
+src/main/java/main.java,d\3\d3c26bf08301c98991887bafaf09d331e2067b4c
