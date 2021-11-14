@@ -1,9 +1,5 @@
 
-M
-java:S1172"0Remove this unused method parameter "inputList".(ÖöÊ¢8…‘õšÏ.
 U
-java:S1117"9Rename "board" which hides the field declared at line 13.(§¼ûo8…‘õšÏ.
-6
-java:S1700"Rename field "board"(…­Ô×üÿÿÿÿ8…‘õšÏ.
-H
-java:S1168"+Return an empty collection instead of null.(¥¹ï8ô¼õšÏ.
+java:S1117"9Rename "board" which hides the field declared at line 11.(§¼ûo8—„ìÂÏ.
+1
+java:S1700"Rename field "board"(­¶Ñ8—„ìÂÏ.

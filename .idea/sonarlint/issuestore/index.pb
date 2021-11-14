@@ -17,3 +17,7 @@ U
 %src/main/java/pluszle/pojo/Board.java,7\f\7fa55a59055c1e505a42dccf9369a7440ab6cdce
 G
 src/main/java/main.java,d\3\d3c26bf08301c98991887bafaf09d331e2067b4c
+a
+1src/main/java/pluszle/pojo/PotentialSolution.java,7\9\790bf183c6e875c703fb8542613fa2a4801d7ade
+[
++src/main/java/pluszle/pojo/RowSolution.java,7\f\7fe2cf7511ec3b91bd03c5178507d197c5edee47
